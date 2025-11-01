@@ -1,4 +1,4 @@
-This is a repository of the raw photobleach data and the raw CAM images used for analysis in the paper "Photosynthetic Microalgae-Enhanced Oxygenation Amplifies Vascular Response to Photodynamic Therapy in a Chorioallantoic Membrane Model".
+This is a repository of the raw photobleaching data and the raw CAM images used for analysis in the paper "Photosynthetic Microalgae-Enhanced Oxygenation Amplifies Vascular Response to Photodynamic Therapy in a Chorioallantoic Membrane Model".
 
 All the raw data used to construct Figures 1-5 are available.
 
