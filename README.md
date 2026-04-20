@@ -6,4 +6,4 @@ The data used for each figure is contiained in the corresponding folder.
 
 Figures 1 and 2 contain raw numerical data in a .xlsx file.
 
-Figures 3, 4 and 5 contain the raw images in .jpg format. Each folder contains images of multiples eggs that were used to perform the vascularization measurements.
+Figures 3, 4, 5 and 6 contain the raw images in .jpg format. Each folder contains images of multiples eggs that were used to perform the vascularization measurements.
